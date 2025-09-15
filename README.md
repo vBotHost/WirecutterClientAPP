@@ -1,7 +1,7 @@
 # WireCutter - SCUM Server Management Bot
 
 <div align="center">
-  <img src="/assets/images/logo/wire_cutter_logo_V.png" alt="WireCutter Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/vBotHost/WirecutterClientAPP/refs/heads/main/data/flutter_assets/assets/images/logo/wire_cutter_logo_V.png" alt="WireCutter Logo" width="200"/>
 
   [![Version](https://img.shields.io/badge/version-1.5.0-blue.svg)]
   [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B.svg?logo=flutter)](https://flutter.dev)
