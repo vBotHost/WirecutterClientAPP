@@ -54,7 +54,7 @@ WireCutter is a comprehensive server management application designed for SCUM ga
 
 #### Download & Run
 
-1. Download the latest release for your platform from the [Releases](https://github.com/vBotHost/WirecutterClientAPP/release) page
+1. Download the latest release for your platform from the [Releases](https://github.com/vBotHost/WirecutterClientAPP/releases/) page
 2. **Windows**: Run the `.msix` installer
 3. **Android**: Install the `.apk` file
 4. **iOS**: Install via TestFlight or App Store
